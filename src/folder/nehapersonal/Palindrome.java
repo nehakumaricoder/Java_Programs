@@ -1,6 +1,6 @@
 package folder.nehapersonal;
 
-public class palindrone  {
+public class Palindrome {
     public static void main(String[] args) {
 
         String str = "Radar", reverseStr = "";
